@@ -1,6 +1,9 @@
 # 💫 About Me:
 👨‍💻 BTech 2nd year | Python enthusiast<br>🚀 Love collaborating on AI + automation projects<br>🎯 Let's build something cool together<br>🧃 Fun fact: I once debugged a bug by taking a nap
 
+<a href="https://github.com/Sudhanshu-khosla-26">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5hyYK3yZqf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam564774288/) 
