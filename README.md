@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 # 💫 About Me:
 👨‍💻 BTech 2nd year | Python enthusiast<br>🚀 Love collaborating on AI + automation projects<br>🎯 Let's build something cool together<br>🧃 Fun fact: I once debugged a bug by taking a nap
 
@@ -28,7 +30,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzsam-lol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://github.com/Sudhanshu-khosla-26">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
