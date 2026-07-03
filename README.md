@@ -2,11 +2,11 @@
 
 ## About
 
-BTech 3rd year — building at the intersection of machine learning, quantitative finance, and alternative data research.
+BTech 3rd year, building at the intersection of machine learning, quantitative finance, and alternative data research.
 
 Focused on systematic alpha generation, event-driven strategies, and applying computer vision + NLP to financial signals. I work primarily in Python and enjoy turning messy, unconventional datasets into structured research frameworks.
 
-Open to collaborating on quant research, ML-for-finance, and anything involving satellite imagery or SEC filings.
+Open to collaborating on quant research, ML for finance, and anything involving satellite imagery or SEC filings.
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
@@ -22,7 +22,7 @@ End-to-end quantitative research framework generating stock alpha by detecting v
 Python pipeline for Benford's Law analysis on SEC EDGAR 10-K filings — chi-square and MAD-based anomaly detection, suspicion scoring, heatmap visualizations, and ReportLab PDF audit reports.
 
 **[macro-event-study-framework](https://github.com/itzsam-lol/macro-event-study-framework)**
-Cross-asset event study framework tracking CPI, NFP, PMI, and FOMC market reactions across equities, FX, rates, and volatility — built with FRED API and yfinance.
+Cross-asset event study framework tracking CPI, NFP, PMI, and FOMC market reactions across equities, FX, rates, and volatility built with FRED API and yfinance.
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
