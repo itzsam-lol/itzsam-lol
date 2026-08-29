@@ -2,7 +2,7 @@
 
 ## About
 
-BTech 3rd year, building at the intersection of machine learning, quantitative finance, and alternative data research.
+BTech 4th year, building at the intersection of machine learning, quantitative finance, and alternative data research.
 
 Focused on systematic alpha generation, event-driven strategies, and applying computer vision + NLP to financial signals. I work primarily in Python and enjoy turning messy, unconventional datasets into structured research frameworks.
 
