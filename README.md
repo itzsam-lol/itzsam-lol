@@ -2,63 +2,70 @@
 
 ## About
 
-BTech 4th year, building at the intersection of machine learning, quantitative finance, and alternative data research.
+BTech 4th year Computer Science student at IIIT Delhi, building across machine learning, software systems, and applied research.
 
-Focused on systematic alpha generation, event-driven strategies, and applying computer vision + NLP to financial signals. I work primarily in Python and enjoy turning messy, unconventional datasets into structured research frameworks.
+I enjoy working on problems that sit between research and real systems, from ML experiments and data-heavy pipelines to backend systems and deployed applications.
 
-Open to collaborating on quant research, ML for finance, and anything involving satellite imagery or SEC filings.
+Currently exploring machine learning, systems, and research through projects, coursework, and independent work.
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ## Featured Projects
 
-**[Oceanic-Edge](https://github.com/itzsam-lol/Oceanic-Edge)**
-Quantitative research framework generating stock alpha by mapping maritime AIS telemetry and satellite computer vision to global supply chain congestion signals.
+**[PGIP](https://github.com/itzsam-lol/PGIP)**  
+Research framework for predicting when simple baselines will fail on single-cell perturbation data, using pre-experimental gene and gene-pair features. Accompanying a bioRxiv preprint.
 
-**[SPLM](https://github.com/itzsam-lol/SPLM)**
-End-to-end quantitative research framework generating stock alpha by detecting vehicle occupancy in satellite imagery using YOLOv8.
+**[Udyox AI](https://github.com/itzsam-lol/udyoxAI)**  
+Voice-first business assistant for Indian MSMEs using Whisper, FastAPI and LLM-based intent parsing to turn spoken Hindi, English, and Hinglish into structured business entries.
 
-**[LedgerLens](https://github.com/itzsam-lol/LedgerLens)**
-Python pipeline for Benford's Law analysis on SEC EDGAR 10-K filings — chi-square and MAD-based anomaly detection, suspicion scoring, heatmap visualizations, and ReportLab PDF audit reports.
+**[CampusFind](https://github.com/itzsam-lol/campusfind)**  
+Full-stack lost-and-found platform for university campuses with institutional authentication, QR-based handoffs, admin dashboards, PostgreSQL, and a live deployment.
 
-**[macro-event-study-framework](https://github.com/itzsam-lol/macro-event-study-framework)**
-Cross-asset event study framework tracking CPI, NFP, PMI, and FOMC market reactions across equities, FX, rates, and volatility built with FRED API and yfinance.
+**[SynchroPulse AI](https://github.com/itzsam-lol/synchroo)**  
+Traffic management system combining graph-based congestion prediction, route optimization, and OR-Tools to generate actionable plans for large events.
+
+**[SPLM](https://github.com/itzsam-lol/SPLM)**  
+Alternative-data research framework using satellite imagery and computer vision to study physical activity around retail locations and connect it to market signals.
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-## Tech Stack
+## What I Work With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=itzsam-lol&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=itzsam-lol&theme=nightowl&hide_border=false&include_all_commits=true&layout=compact)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=itzsam-lol&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsam-lol&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![Satyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzsam-lol&theme=react-dark)](https://github.com/itzsam-lol)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam564774288/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5hyYK3yZqf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/samuraiiii)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/itzsam-lol)
 
 [![](https://visitcount.itsvg.in/api?id=itzsam-lol&icon=0&color=0)](https://visitcount.itsvg.in)
 
